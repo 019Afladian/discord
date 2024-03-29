@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "omnifont";
+  src: url(PequenaPro-Regular.ttf)
+}
+
+body {
+  font-family: "omnifont";
