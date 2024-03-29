@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "omnifont";
+  src: url(font4.otf)
+}
+
+body {
+  font-family: "omnifont";
+}
